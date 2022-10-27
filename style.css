@@ -33,7 +33,7 @@ font-weight: bold;
 color: crimson;
 }
 .date-posted {
-    font-weight: italic;
+    font-style: italic;
     color: darkred;
     opacity: .5;
     padding: 20px;
