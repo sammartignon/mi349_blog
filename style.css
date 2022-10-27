@@ -1,0 +1,47 @@
+html {
+    background: #e3e3e3;
+}
+body{
+font-family: 'Times New Roman', Times, serif;
+margin: 40px;
+padding: 40px;
+color: #242424;
+border-top: 10px solid #242424;
+background: #fff;
+}
+h1 {
+font-size: 4em;
+margin: 0;
+}
+p {
+line-height: 1.4em;
+}
+#blog {
+border-top: 1px dotted #ccc;
+}
+.blog-post {
+border-bottom: 1px dotted #ccc;
+}
+a[title]{
+    color: crimson;
+    font-weight: bolder;
+}
+h2 {
+font-size: 2.5em;
+font-weight: bold;
+color: crimson;
+}
+.date-posted {
+    font-weight: italic;
+    color: darkred;
+    opacity: .5;
+}
+.author {
+    font-weight: bold;
+    text-decoration: underline overline;
+}
+
+
+
+
+    
