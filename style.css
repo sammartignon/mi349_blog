@@ -1,5 +1,5 @@
 html {
-    background: #e3e3e3;
+    background: crimson;
 }
 body{
 font-family: 'Times New Roman', Times, serif;
@@ -36,6 +36,7 @@ color: crimson;
     font-weight: italic;
     color: darkred;
     opacity: .5;
+    padding: 20px;
 }
 .author {
     font-weight: bold;
