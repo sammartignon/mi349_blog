@@ -47,8 +47,4 @@ color: crimson;
     font-weight: bold;
     text-decoration: underline overline;
     border-bottom: 5px dotted #ccc;
-    height: 5px;
-    width: 5px;
-    float: left;
-    margin: 5px;
 }
