@@ -46,10 +46,7 @@ color: crimson;
 .author {
     font-weight: bold;
     text-decoration: underline overline;
-    margin-bottom: 100px;
-    border-bottom: 1px dotted #ccc;
-}
-.AP{
+    border-bottom: 5px dotted #ccc;
     height: 5px;
     width: 5px;
     float: left;
