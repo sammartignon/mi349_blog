@@ -53,5 +53,8 @@ KK_image {
     width: 8px;
     float: left;
     margin: 20px;
-    padding-right: 4px;
+    padding-right: 10px;
+}
+article {
+    display: flex;
 }
