@@ -47,6 +47,8 @@ color: crimson;
     font-weight: bold;
     text-decoration: underline overline;
     border-bottom: 3px dotted #ccc;
+}
+KK_image {
     height: 5px;
     width: 5px;
     float: left;
