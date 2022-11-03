@@ -46,15 +46,8 @@ color: crimson;
 .author {
     font-weight: bold;
     text-decoration: underline overline;
-}
-.Author_Pic{
-    height: 75px;
-    width: 75px;
+    height: 15px;
+    width: 15px;
     float: left;
     margin-right: 8px;
 }
-
-
-
-
-    
