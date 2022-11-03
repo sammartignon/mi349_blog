@@ -52,5 +52,7 @@ KK_image {
     height: 5px;
     width: 5px;
     float: left;
-    margin: 5px;
+    margin: 20px;
+    font-style: italic;
+    font-size: x-small;
 }
