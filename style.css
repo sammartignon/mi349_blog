@@ -49,10 +49,9 @@ color: crimson;
     border-bottom: 3px dotted #ccc;
 }
 KK_image {
-    height: 5px;
-    width: 5px;
+    height: 8px;
+    width: 8px;
     float: left;
     margin: 20px;
-    font-style: italic;
-    font-size: x-small;
+    padding-right: 4px;
 }
