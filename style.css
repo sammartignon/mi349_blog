@@ -55,6 +55,6 @@ color: crimson;
     margin: 20px;
     padding-right: 10px;
 }
-section{
+section.ContactP{
     display: flex;
 }
