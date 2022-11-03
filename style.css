@@ -27,8 +27,6 @@ border-top: 1px dotted #ccc;
 }
 .blog-post {
 margin-top: 150px;
-margin-bottom: 100px;
-border-bottom: 1px dotted #ccc;
 }
 a[title]{
     color: crimson;
@@ -48,6 +46,8 @@ color: crimson;
 .author {
     font-weight: bold;
     text-decoration: underline overline;
+    margin-bottom: 100px;
+    border-bottom: 1px dotted #ccc;
 }
 .AP{
     height: 5px;
