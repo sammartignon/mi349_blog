@@ -10,6 +10,10 @@ border-top: 10px solid #242424;
 border-bottom: 10px solid #242424;
 background: #fff;
 }
+.TitleNav {
+position: sticky;
+top: 0;
+}
 h1 {
 font-size: 4em;
 margin: 0;
