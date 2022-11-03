@@ -48,13 +48,13 @@ color: crimson;
     text-decoration: underline overline;
     border-bottom: 3px dotted #ccc;
 }
-KK_image {
+.KK_image {
     height: 8px;
     width: 8px;
     float: left;
     margin: 20px;
     padding-right: 10px;
 }
-article {
+.ContactP{
     display: flex;
 }
