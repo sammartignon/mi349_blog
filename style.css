@@ -46,5 +46,9 @@ color: crimson;
 .author {
     font-weight: bold;
     text-decoration: underline overline;
-    border-bottom: 5px dotted #ccc;
+    border-bottom: 3px dotted #ccc;
+    height: 5px;
+    width: 5px;
+    float: left;
+    margin: 5px;
 }
