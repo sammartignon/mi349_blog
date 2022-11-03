@@ -55,9 +55,6 @@ color: crimson;
     margin: 20px;
     padding-right: 10px;
 }
-article.ContactPA1 {
-    flex: 4;
-}
-article.ContactPA2 {
-    flex: 2;
+article.ContactP {
+    display: flex;
 }
