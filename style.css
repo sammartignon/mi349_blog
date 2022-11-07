@@ -62,11 +62,11 @@ color: crimson;
 
 @media (max-width: 400px) {
     p {
-        color: royalblue;
+        font-style: italic;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .TitleNav {
-        color: red;
+        font-weight: bolder;
     }
 
 }
