@@ -60,10 +60,10 @@ color: crimson;
     padding-bottom: 10px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
     p {
         font-style: italic;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: purple;
     }
     .TitleNav {
         font-weight: bolder;
