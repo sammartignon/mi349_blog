@@ -69,7 +69,8 @@ color: crimson;
     }
     .TitleNav {
         font-weight: bold;
-        height: auto;
+        padding: 0;
+        font-size: small;
 
     }
 }
