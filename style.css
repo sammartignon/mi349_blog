@@ -64,6 +64,10 @@ color: crimson;
     p {
         font-style: italic;
         color: purple;
+        font-weight: lighter;
+    }
+    .TitleNav {
+        font-weight: bold;
     }
 }
 .image {
