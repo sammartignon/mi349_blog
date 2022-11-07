@@ -73,6 +73,10 @@ color: crimson;
         font-size: small;
 
     }
+    .title {
+        font-size: medium;
+
+    }
 }
 .image {
     width: 400px;
