@@ -59,3 +59,14 @@ color: crimson;
     display: flex;
     padding-bottom: 10px;
 }
+
+@media (max-width: 400px) {
+    p {
+        color: royalblue;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .TitleNav {
+        color: red;
+    }
+
+}
