@@ -60,7 +60,7 @@ color: crimson;
     padding-bottom: 10px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 400px) {
     p {
         font-style: italic;
         color: purple;
@@ -68,7 +68,8 @@ color: crimson;
     }
     .TitleNav {
         font-weight: bold;
-        display: inline-block;
+        width: auto;
+
     }
 }
 .image {
