@@ -65,9 +65,7 @@ color: crimson;
         font-style: italic;
         color: purple;
     }
-    .TitleNav {
-        font-weight: bolder;
-        display: block;
-    }
-
+}
+.image {
+    width: 400px;
 }
