@@ -67,6 +67,7 @@ color: crimson;
     }
     .TitleNav {
         font-weight: bolder;
+        display: block;
     }
 
 }
